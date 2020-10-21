@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+    <head>
+        <title>Keith the QB</title>
+        <link rel="sylesheet" type="text/css" href="test.css" />
+        <link href='http://fonts.googleapis.com/css?family=Passion+One' rel="sylesheet" type="text/css" href="test.css" />
+    </head>
+
+    <body>
+        <div id = "Header">
+            <h1> Keith the QB </h1>
+        </div>
+
+        <div id = "LeftNav">
+            <h3 class = "titles"> My Favorite Websites</h3>
+            <ul>
+                <li<a href="https://www.nike.com">Nike</a></ul>li>
+                <li<a href="https://www.ronixwake.com">Ronix</a></ul>li>
+                <li<a href="https://www.malibuboats.com">Malibu Boats</a></ul>li>
+            </ul>
+            <img src="icon.gif" width="350px" height="200px">
+        </div>
+
+        <div id = "Content">
+            <p> This is Griffin Touws Web Page! He is a student at the University of Washington Foster School of BUsiness. He loves to Skii, Surf, and is really interested in fasion.</p>
+            br /> <span id="bow">Bow Down to Washington!!</span></p>
+            <img src="price.jpeg">
+        </div>
+
+        <div id = "Footer">
+            <h3 class = "titles"> COnnect With ME Online:</h3>
+            <ul>
+                <li<a href="https://www.Facebook.com">Facebook</a></ul>li>
+                <li<a href="https://www.linkedin.com/in/griffin-touw-b9064189">Linkedin</a></ul>li>
+            </ul>
+            <p> Copyright of Griffin Touw</p>
+        </div>
+
+    </body>
+
+</html>
+
+
